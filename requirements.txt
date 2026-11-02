@@ -1,0 +1,15 @@
+# Local LLM Integration
+ollama
+
+# Vector Database and Hybrid Search
+faiss-cpu
+rank_bm25
+
+# Local Embedding Model loading (bypassing ModelScope/HuggingFace)
+torch
+transformers
+sentencepiece
+
+# Document Parsers
+pypdf
+python-docx
